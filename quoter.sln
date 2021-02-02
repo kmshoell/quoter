@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.808.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quoter", "quoter\quoter.csproj", "{95186230-0545-41CA-93AD-22DA3B2A5506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quoter.model", "quoter.model\quoter.model.csproj", "{36E5FFB0-8F97-4613-8931-F4314964D2C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quoter.data", "quoter.data\quoter.data.csproj", "{29BE18D9-C174-461D-AA4F-F66051128B17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{95186230-0545-41CA-93AD-22DA3B2A5506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95186230-0545-41CA-93AD-22DA3B2A5506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95186230-0545-41CA-93AD-22DA3B2A5506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E5FFB0-8F97-4613-8931-F4314964D2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E5FFB0-8F97-4613-8931-F4314964D2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E5FFB0-8F97-4613-8931-F4314964D2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E5FFB0-8F97-4613-8931-F4314964D2C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BE18D9-C174-461D-AA4F-F66051128B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BE18D9-C174-461D-AA4F-F66051128B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BE18D9-C174-461D-AA4F-F66051128B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BE18D9-C174-461D-AA4F-F66051128B17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
